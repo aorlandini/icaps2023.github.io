@@ -1,4 +1,4 @@
-# <Planning and Robotics (PlanRob 2023)>
+# Planning and Robotics (PlanRob 2023)
 
 ICAPS'23 Workshop
 Prague, Czech Republic
