@@ -1,3 +1,9 @@
+---
+title: "PlanRob"
+date: 2023-02-05T15:19:00+01:00
+draft: false
+---
+
 # Planning and Robotics (PlanRob 2023)
 
 ICAPS'23 Workshop
